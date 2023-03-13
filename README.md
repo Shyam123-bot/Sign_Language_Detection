@@ -3,12 +3,19 @@ This repository contains a variety of tools to build up a experimental ecosystem
 
 # Software requirement specifications
 ● Python
+
 ● IDE (Jupyter)
+
 ● Numpy
+
 ● CV2 (OpenCV)
+
 ● Keras
+
 ● Tensorflow
+
 ● Matplotlib
+
 ● Mediapipe
 
 # Model : LSTM Neural Network
@@ -31,31 +38,34 @@ cases, LSTM has an advantage over RNNs, hidden Markov
 models, and other sequence learning techniques due to its relative
 insensitivity to gap length.
 
-#Traing and Testing
+# Traningg and Testing
 For the above created model we got an accuracy of 97% for training
 and 92% for testing
-#Training accuracy graph
+### Training accuracy graph
+![image](https://user-images.githubusercontent.com/61462986/224817747-7352137b-2603-45ae-b533-5e1b66ae1018.png)
 
-![image](https://user-images.githubusercontent.com/61462986/224817051-cce7cddd-4b00-488a-90e0-6470c36fc999.png)
 
-#Loss per epoch
+### Loss per epoch
+![image](https://user-images.githubusercontent.com/61462986/224817796-833c1346-51ff-4c1f-8203-44e55dadfa0c.png)
 
-![image](https://user-images.githubusercontent.com/61462986/224817072-b99df069-c17f-4c7c-9f10-978f9c499cd2.png)
+
+
 
 
 
 # Result
   Hello
-  ![image](https://user-images.githubusercontent.com/61462986/224812464-882f36ea-f475-4d2c-a921-337561687d87.png)
+  ![image](https://user-images.githubusercontent.com/61462986/224817856-b5f9a664-fc6f-455b-a85c-2698c24b442e.png)
 
   Yes
-  ![image](https://user-images.githubusercontent.com/61462986/224812503-45b69fce-756a-4b8d-8a80-15528453a3af.png)
+  ![image](https://user-images.githubusercontent.com/61462986/224817886-7c7b802c-d80a-4855-b26b-4e207641942c.png)
 
   No
-  ![image](https://user-images.githubusercontent.com/61462986/224812547-b8319bfb-1358-4ea5-be19-be933e9c12a7.png)
+  ![image](https://user-images.githubusercontent.com/61462986/224817951-f917fd42-4927-4b31-b8a5-fd68e705a5dc.png)
 
   Thanks 
-  ![image](https://user-images.githubusercontent.com/61462986/224812590-d7fb529e-eb21-4d42-baeb-7bbc1299dcc5.png)
+  ![image](https://user-images.githubusercontent.com/61462986/224817995-b513275d-1664-4dac-8e3b-5b3af88b8804.png)
+
   
 # Conclusion
   A sign language recognition model can be created using Python
